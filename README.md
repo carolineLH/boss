@@ -3,10 +3,11 @@
 > A Vue.js project
 
 ## 效果预览：
->### 👉源码地址：[Github在这里](https://github.com/wuyuanlijie/vue-jumei-app)
+>### 👉源码地址：[Github在这里]()
 ![](https://github.com/carolineLH/boss/blob/master/GIF5.gif)
-![](https://github.com/wuyuanlijie/ImageFile/blob/master/JmBg/jm2.gif)<br>
-![](https://github.com/wuyuanlijie/ImageFile/blob/master/JmBg/jm3.gif)<br>
+![](https://github.com/carolineLH/boss/blob/master/GIF2.gif)<br>
+![](https://github.com/carolineLH/boss/blob/master/GIF3.gif)
+![](https://github.com/carolineLH/boss/blob/master/GIF4.gif)<br>
 
 ## 项目描述
 ### 技术栈

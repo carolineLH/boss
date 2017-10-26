@@ -4,7 +4,7 @@
 
 ## 效果预览：
 >### 👉源码地址：[Github在这里](https://github.com/wuyuanlijie/vue-jumei-app)
-![](https://github.com/wuyuanlijie/ImageFile/blob/master/JmBg/jm1.gif)
+![](https://github.com/carolineLH/boss/blob/master/GIF5.gif)
 ![](https://github.com/wuyuanlijie/ImageFile/blob/master/JmBg/jm2.gif)<br>
 ![](https://github.com/wuyuanlijie/ImageFile/blob/master/JmBg/jm3.gif)<br>
 

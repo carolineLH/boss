@@ -1,0 +1,116 @@
+{
+    "data":[
+        {
+            "id":0,
+            "src":"https://img2.bosszhipin.com/boss/avatar/avatar_4.png",
+            "name":"Joan",
+            "time":"昨天",
+            "company":"mobisummer   HRBP",
+            "chat":"已经发了🙂"
+        },
+        {
+            "id":1,
+            "src":"https://img.bosszhipin.com/beijin/mcs/useravatar/20160909/1c059a2f0f1375ca3013a9351cb7df36ef45909ad71ab596b90b36a45ee757c9_s.jpg",
+            "name":"谢海清",
+            "time":"昨天",
+            "company":"上海丁牛",
+            "chat":"好的"
+        },
+        {
+            "id":2,
+            "src":"https://img.bosszhipin.com/beijin/mcs/useravatar/20160715/ea210670a9163ab8a8c13a16066ae2788c7dd922ad47494fc02c388e12c00eac_s.jpg",
+            "name":"彦乔",
+            "time":"10月20日",
+            "company":"美购   商场负责人",
+            "chat":"我现在可以随时上岗的那种"
+        },
+        {
+            "id":3,
+            "src":"https://img.bosszhipin.com/beijin/mcs/useravatar/20160913/85345e2574d6936174d20f050a305aebb14be70eb495344704f28f3f37103518_s.jpg",
+            "name":"Ginny",
+            "time":"10月20日",
+            "company":"广州丰石科技   HR",
+            "chat":"我现在可以直接过来"
+        },
+        {
+            "id":4,
+            "src":"https://img.bosszhipin.com/beijin/mcs/useravatar/20170424/96db399ed9cf772df0b787c9c53e897c8c7dd922ad47494fc02c388e12c00eac_s.jpg",
+            "name":"张东东",
+            "time":"10月20日",
+            "company":"PPmoney   HRBP",
+            "chat":"可以看看我的简历哟🙂"
+        },
+        {
+            "id":5,
+            "src":"https://img.bosszhipin.com/beijin/mcs/useravatar/20170815/6dc5dd0099a334473270dfadadff9af16110875b5c1e5e71202386adae0921b2_s.jpg",
+            "name":"王方",
+            "time":"10月20日",
+            "company":"德科信息   人事专员",
+            "chat":"好的呢"
+        },
+        {
+            "id":6,
+            "src":"https://img2.bosszhipin.com/mcs/useravatar/20150807/55db7cc2ac6b90e27327e5da049125b48c7dd922ad47494fc02c388e12c00eac_s.jpg",
+            "name":"郭亨鸿",
+            "time":"10月20日",
+            "company":"AKULAKU   HRBP",
+            "chat":"谢谢啦🙂"
+        },
+        {
+            "id":7,
+            "src":"https://img.bosszhipin.com/beijin/mcs/useravatar/20170221/157b4a57d5e926b0ba1a41c7488445da8c7dd922ad47494fc02c388e12c00eac_s.jpg",
+            "name":"Yumi",
+            "time":"10月20日",
+            "company":"来学   HR",
+            "chat":"ok🙂"
+        },
+        {
+            "id":8,
+            "src":"https://img.bosszhipin.com/beijin/mcs/useravatar/20170920/ae2508bfbe8e5f92a3c5334f31f377055e1bc45c90a381315794b6fba2579903_s.jpg",
+            "name":"王大鹏",
+            "time":"10月20日",
+            "company":"安顺软通动力   招聘顾问",
+            "chat":"好的"
+        },
+        {
+            "id":9,
+            "src":"https://img2.bosszhipin.com/boss/avatar/avatar_6.png",
+            "name":"王维",
+            "time":"10月19日",
+            "company":"作业帮   研发经理",
+            "chat":"🙂🙂"
+        },
+        {
+            "id":10,
+            "src":"https://img.bosszhipin.com/beijin/mcs/useravatar/20170721/e5f55a8aedd3c2f1203cc2e0f01acdfa8c7dd922ad47494fc02c388e12c00eac_s.jpg",
+            "name":"张靖华",
+            "time":"10月19日",
+            "company":"金蝶云之家    业务连接产品总监",
+            "chat":"对方已查看您的附件简历"
+        },
+        {
+            "id":11,
+            "src":"https://img2.bosszhipin.com/boss/avatar/avatar_2.png",
+            "name":"杨丽",
+            "time":"10月19日",
+            "company":"德科信息   人事专员",
+            "chat":"对方已查看您的附件简历"
+        },
+        {
+            "id":12,
+            "src":"https://img.bosszhipin.com/beijin/mcs/useravatar/20160728/21a5499486c901e9f863d41965a545198c7dd922ad47494fc02c388e12c00eac_s.jpg",
+            "name":"cily",
+            "time":"10月18日",
+            "company":"美联英语  HR",
+            "chat":"好的🙂"
+        },
+        {
+            "id":13,
+            "src":"https://img.bosszhipin.com/beijin/mcs/useravatar/20160913/49f662d55094b6de90bf87fa0c8c53b78c7dd922ad47494fc02c388e12c00eac_s.jpg",
+            "name":"何宛余",
+            "time":"10月17日",
+            "company":"小库科技   CEO",
+            "chat":"期待"
+        }
+    ]
+}

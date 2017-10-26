@@ -1,0 +1,98 @@
+.home{
+    background-color: rgb(233,239,239);
+}
+.content{
+    margin-top: 1.5rem;
+    color: gray;
+    font-family: sans-serif;
+}
+.content-item{
+    background-color: white;
+    margin: 0.259259rem;
+    height: 3.85185rem;
+    position: relative;
+}
+h5{
+    font-size: .12963rem;
+    font-weight: 400;
+    color: #000000;
+    display: inline-block;
+    height: .40740rem;
+    line-height: .40740rem;
+    width: 3.055555rem;
+    position: absolute;
+    top: .333333rem;
+    left: .333333rem;
+}
+.salary{
+    height: .40740rem;
+    display: inline-block;
+    line-height: .40740rem;
+    position: absolute;
+    top:.462963rem;
+    right: .333333rem;
+}
+.tou{
+    width: .71296rem;
+    height: .71296rem;
+    border-radius: 50%;
+    position: absolute;
+    left:.407407rem;
+    bottom: .314815rem;
+}
+.da{
+    font-size: .12963rem;
+    display: inline-block;
+    height: .40740rem;
+    line-height: .40740rem;
+    position: absolute;
+    left: .333333rem;
+    top:1.203703rem;
+}
+.city{
+    height: .277778rem;
+    line-height: .277778rem;
+    position: absolute;
+    left: .333333rem;
+    top:1.89814rem;
+}
+.levl{
+    font-size: .12963rem;
+    display: inline-block;
+    height: .40740rem;
+    line-height: .40740rem;
+    position: absolute;
+    left: 2.8rem;
+    top:1.203703rem;
+}
+.people,.education{
+    height: .277778rem;
+    line-height: .277778rem;
+    position: absolute;
+    top:1.89814rem;
+}
+.people{
+    left:4rem;
+}
+.education{
+    left:5.5rem;
+}
+.info,.depatment{
+    color: rgb(38,62,255);
+    position: absolute;
+    bottom: .314815rem;
+    height: .388889rem;
+    line-height: .388889rem;
+
+}
+.info{
+    width: 1rem;
+    left: 1.57407rem;
+    border-right: 1px solid rgb(38,62,255);
+}
+.depatment{
+    left:2.82407rem;
+}
+.mint-loadmore-content{
+    margin-top: .6rem;
+}

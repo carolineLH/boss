@@ -1,0 +1,84 @@
+{
+    "data":[
+        {
+            "id": 0,
+            "src": "https://img.bosszhipin.com/beijin/mcs/useravatar/20161125/11ba17dfa09c38071a010e081f4138548c7dd922ad47494fc02c388e12c00eac_s.jpg",
+            "title": "上海银天下金融",
+            "type": "上海市浦东新区",
+            "level": "金融 | 已上市 | 1000-9999人",
+            "desc":"热招：前端开发实习生等38个职位"
+        },
+        {
+            "id": 1,
+            "src": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170420/2f27be41f0e612fb1b367867a2f370620dee3dd6ea868ae339fd6998c88c3d1c.jpg",
+            "title": "爱用宝",
+            "type": "上海市虹口区复旦大学",
+            "level": "移动互联网 | 已上市 | 20-99人",
+            "desc":"热招：前端实习13个职位"
+        },
+        {
+            "id": 2,
+            "src": "https://img.bosszhipin.com/beijin/mcs/bar/brand/109.jpg",
+            "title": "腾讯",
+            "type": "深圳市南山区科技园",
+            "level": "互联网 | 已上市 | 10000人以上",
+            "desc":"热招：web前端(外包)等1106个职位"
+        },
+        {
+            "id": 3,
+            "src": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170621/d7ab1630e53544af40ff91e9c13b461425035639133129e1a4550aeb82e72e34.jpg",
+            "title": "中软国际",
+            "type": "杭州市余杭区",
+            "level": "IT软件 | 已上市 | 1000-9999人",
+            "desc":"热招：web前端等430个职位"
+        },
+        {
+            "id": 4,
+            "src": "https://img.bosszhipin.com/beijin/mcs/bar/brand/567.jpg",
+            "title": "阿里巴巴集团",
+            "type": "上海市浦东新区",
+            "level": "互联网 | 已上市 | 10000人以上",
+            "desc":"热招：前端开发等2482个职位"
+        },
+        {
+            "id": 5,
+            "src": "https://img2.bosszhipin.com/mcs/chatphoto/20160314/997e75aa68105b2a415b33684b4b99c19a039023133b203840c70a6bc63d6078.jpg",
+            "title": "美购",
+            "type": "上海市徐汇区田林",
+            "level": "电子商务 | B轮 | 100-499人",
+            "desc":"热招：微信小程序开发工程师等22个职位"
+        },
+        {
+            "id": 6,
+            "src": "https://img.bosszhipin.com/beijin/mcs/bar/brand/6350.jpg",
+            "title": "沪江",
+            "type": "上海市浦东新区",
+            "level": "移动互联网 | D轮及以上 | 1000-9999人",
+            "desc":"热招：前端开发实习生等220个职位"
+        },
+        {
+            "id": 7,
+            "src": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170717/44bc05e41a7eb0fa698b08e074c80cfb27cb3b22bdb926030ed68ad4f0162f90.jpg",
+            "title": "医科达",
+            "type": "上海",
+            "level": "健康医疗 | 已上市 | 1000-9999人",
+            "desc":"热招：Web Developer等10个职位"
+        },
+        {
+            "id": 8,
+            "src": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20160707/cabf49a02ab10d1c6e14eb5cf70a17b819539a0d1a5dd72bbc0c176f5f63edd2.jpg",
+            "title": "编程猫",
+            "type": "深圳市南山区科技园",
+            "level": "移动互联网 | B轮 | 100-949人",
+            "desc":"热招：JavaScript机器人工智能等139个职位"
+        },
+        {
+            "id": 9,
+            "src": "https://img.bosszhipin.com/beijin/mcs/chatphoto/20170927/60158fe74a9233b55ee08206ca5df1dccfcd208495d565ef66e7dff9f98764da.jpg",
+            "title": "百度",
+            "type": "上海市浦东新区张江",
+            "level": "互联网 | 已上市 | 10000人以上",
+            "desc":"热招：Web前端工程师等1978个职位"
+        }
+    ]
+}

@@ -1,0 +1,117 @@
+.mint-loadmore-bottom {
+    margin-bottom: 30px;
+}
+.conform{
+    display: flex;
+    position: fixed;
+    z-index: 1;
+    height: .59999rem;
+    padding-top:.15rem;
+    margin-top: -.5rem;
+    background: white;
+    border-bottom: 1px solid rbg(121,121,121);
+    color: rgb(121,121,121);
+}
+#sel-wrap{
+    position: relative;
+}
+.sel-show {
+    width: 2.5rem;
+    height: .407407rem;
+    font: .305555rem 'microsoft yahei';
+    border-right: 2px solid #DDDDDD;
+    cursor: default;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-items: center;
+}
+.sel-show::after{
+    content: url(../image/pull.png);
+}
+.shadow{
+    width: 100%;
+    margin-top: .18rem;
+    height: 14.79999rem;
+    background-color: rgba(76,76,76,.5);
+    position: fixed;
+    left: 0;
+    right: 0;
+    z-index: 10;
+}
+.sel-option {
+    position: absolute;
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 100;
+    background: #fff;
+    margin-top: .04222rem;
+}
+.sel-option li {
+    width: 100%;
+    height: 1rem;
+    padding-left: .435185rem;
+    font: .351851rem 'microsoft yahei';
+    list-style: none;
+    box-sizing: border-box;
+    cursor: default;
+    line-height: 1rem;
+}
+.option:after {
+    content: '\2714' ' ';
+}
+.option {
+    color: blue;
+}
+.text-active {
+    color: blue;
+}
+.sel-list{
+    width: 2.5rem;
+    height: .407407rem;
+    font: .305555rem 'microsoft yahei';
+    border-right: 2px solid #DDDDDD;
+    cursor: default;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sel-list::after{
+    content: url(../image/pull.png);
+}
+.sel-page{
+    width: 100%;
+    box-sizing: border-box;
+    z-index: 100;
+    background: #fff;
+    height: 11.333333rem;
+}
+.mint-header.is-fixed{
+    height: 1rem;
+}
+.sel-three{
+    width: 2.5rem;
+    height: .407407rem;
+    font: .305555rem 'microsoft yahei';
+    border-right: 2px solid #DDDDDD;
+    cursor: default;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sel-three::after{
+    content: url(../image/pull.png);
+}
+.sel-four{
+    width: 2.5rem;
+    height: .407407rem;
+    font: .305555rem 'microsoft yahei';
+    border-right: 2px solid #DDDDDD;
+    cursor: default;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.sel-four::after{
+    content: url(../image/pull.png);
+}

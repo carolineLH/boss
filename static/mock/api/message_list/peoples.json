@@ -1,0 +1,94 @@
+{
+    "data":[
+        {
+            "id":0,
+            "src":"https://img.bosszhipin.com/beijin/mcs/useravatar/20160909/1c059a2f0f1375ca3013a9351cb7df36ef45909ad71ab596b90b36a45ee757c9_s.jpg",
+            "name":"上海丁牛  研发",
+            "time":"昨天",
+            "company":"招聘",
+            "position":"初级web前端",
+            "chat":"应届生  本科   3k-4k"
+        },
+        {
+            "id":1,
+            "src":"https://img.bosszhipin.com/beijin/mcs/useravatar/20160715/ea210670a9163ab8a8c13a16066ae2788c7dd922ad47494fc02c388e12c00eac_s.jpg",
+            "name":"美购  市场负责人",
+            "time":"昨天",
+            "company":"招聘",
+            "position":"微信小程序开发工程师",
+            "chat":"1年以内  本科  10k-15k"
+        },
+        {
+            "id":2,
+            "src":"https://img.bosszhipin.com/beijin/mcs/useravatar/20160913/85345e2574d6936174d20f050a305aebb14be70eb495344704f28f3f37103518_s.jpg",
+            "name":"广州丰石科技  HR",
+            "time":"2天前",
+            "company":"招聘",
+            "position":"前端开发工程师（实习生）",
+            "chat":"应届生  本科  2k-4k"
+        },
+        {
+            "id":3,
+            "src":"https://img.bosszhipin.com/beijin/mcs/useravatar/20170815/6dc5dd0099a334473270dfadadff9af16110875b5c1e5e71202386adae0921b2_s.jpg",
+            "name":"德科信息  人事专员",
+            "time":"3天前",
+            "company":"招聘",
+            "position":"web前端开发实习生",
+            "chat":"经验不限  本科  7k-10k"
+        },
+        {
+            "id":4,
+            "src":"https://img2.bosszhipin.com/mcs/useravatar/20150807/55db7cc2ac6b90e27327e5da049125b48c7dd922ad47494fc02c388e12c00eac_s.jpg",
+            "name":"图声天地  项目经理",
+            "time":"2天前",
+            "company":"招聘",
+            "position":"web前端开发实习生",
+            "chat":"经验不限  本科  7k-10k"
+        },
+        {
+            "id":5,
+            "src":"https://img.bosszhipin.com/beijin/mcs/useravatar/20170221/157b4a57d5e926b0ba1a41c7488445da8c7dd922ad47494fc02c388e12c00eac_s.jpg",
+            "name":"盈科旅游  HR",
+            "time":"4天前",
+            "company":"招聘",
+            "position":"web前端",
+            "chat":"1年以内  本科  8k-15k"
+        },
+        {
+            "id":6,
+            "src":"https://img2.bosszhipin.com/mcs/useravatar/20160307/5fa08703aee6bd5e4c93293edd3c11fc8c7dd922ad47494fc02c388e12c00eac_s.jpg",
+            "name":"上海五福通信  人力资源经理",
+            "time":"7天前",
+            "company":"招聘",
+            "position":"前端开发工程师",
+            "chat":"应届生  本科  5k-10k"
+        },
+        {
+            "id":7,
+            "src":"https://img2.bosszhipin.com/boss/avatar/avatar_15.png",
+            "name":"好慷在线  技术总监",
+            "time":"9天前",
+            "company":"招聘",
+            "position":"web前端",
+            "chat":"1年以内  不限  7k-9k"
+        },
+        {
+            "id":8,
+            "src":"https://img2.bosszhipin.com/boss/avatar/avatar_6.png",
+            "name":"中嘉信息  总经理",
+            "time":"10天前",
+            "company":"招聘",
+            "position":"web前端",
+            "chat":"不限  本科 8k-10k"
+        },
+        {
+            "id":9,
+            "src":"https://img.bosszhipin.com/beijin/mcs/useravatar/20171015/d6ae1c8f2395532546be72514e5ad9370aa182e141d21d291c944650a6b946d6_s.jpg",
+            "name":"Testin云测  招聘者",
+            "time":"5天前",
+            "company":"招聘",
+            "position":"前端实习生",
+            "chat":"应届生  本科  5k-10k"
+        }
+    ]
+}
